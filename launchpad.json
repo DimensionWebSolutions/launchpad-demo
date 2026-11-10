@@ -1,0 +1,9 @@
+{
+  "name": "launchpad-demo",
+  "repo": "DimensionWebSolutions/launchpad-demo",
+  "framework": "nextjs",
+  "services": {
+    "database": { "provider": "neon" },
+    "botProtection": {}
+  }
+}
